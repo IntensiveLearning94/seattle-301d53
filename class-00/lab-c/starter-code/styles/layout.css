@@ -1,0 +1,47 @@
+nav, article, aside, footer section {
+    margin: 0 auto;
+    width: 900px;
+  }
+  
+  #logo img {
+    float: left;
+  }
+
+  footer section p{
+    padding: 50px 0;
+    line-height: 1.5em;
+    text-align: center;
+    color: #aaa;
+  }
+
+  aside img {
+    float: left;
+  }
+  
+  aside {
+    padding-top: 30px;
+    padding-bottom: 60px
+  }
+  
+
+  .recipe li {
+    float: left;
+    width: 40%;
+    font-size: 1.3em;
+    line-height: 31px;
+  }
+  
+  
+.date {
+    float: left;
+  }
+  
+  .print {
+    text-decoration: none;
+    padding-left: 30px;
+    float: right;
+  }
+  
+  .print img {
+    margin-right: 3px;
+  }
